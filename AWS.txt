@@ -1,0 +1,25 @@
+AWS y React Native
+
+React Native
+
+-Orientado a componentes(Reutilizacion de codigo)
+-Contenerdores
+-Ciclos de vida
+-JSX(Parecido a HTML)
+
+Amazon WEB Services
+-Servicios en la nube 
+-1 año gratis de uso
+-Almacenamiento en la nube 
+
+Utilizaremos 
+-DynamoDB(BD no Relancional, Tabla hash)
+
+-AppSync(implementacion de GraphQL)
+
+-Aws Amplify
+
+
+
+
+
